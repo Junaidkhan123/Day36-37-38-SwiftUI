@@ -11,7 +11,7 @@ import SwiftUI
 struct day_36_37_38App: App {
     var body: some Scene {
         WindowGroup {
-            DeleteView()
+            SomeTweak()
         }
     }
 }
